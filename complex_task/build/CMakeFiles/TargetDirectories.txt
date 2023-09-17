@@ -1,0 +1,3 @@
+/home/halluz/task/complex_task/build/CMakeFiles/complextask.dir
+/home/halluz/task/complex_task/build/CMakeFiles/edit_cache.dir
+/home/halluz/task/complex_task/build/CMakeFiles/rebuild_cache.dir
